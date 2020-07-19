@@ -1,0 +1,121 @@
+/*
+#1 color = #167ce9;
+#2 color = #167ce9;
+*/
+#167ce9
+
+a:hover,
+a:focus {
+    color: #167ce9;
+}
+
+.circled {
+	background: #167ce9;
+}
+
+.con1 > div, .con2 > div, .con3 > div { 
+	background-color: #167ce9;
+}
+
+.scrollup:hover {
+	background: #167ce9;
+}
+
+
+/* service */
+
+.service-icon span {
+	color: #167ce9;
+}
+
+
+
+/* button */
+.btn-skin {
+  background-color: #167ce9;
+  border-color: #167ce9;
+}
+
+
+/* top */
+.top-area {
+	background: #167ce9;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #167ce9;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
+    color: #167ce9;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #167ce9;
+}
+
+
+.bg-skin {
+	background: #167ce9;
+}
+
+.highlight-color {
+	background-color: #167ce9;
+}
+.color {
+	color: #167ce9;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,.pricing-content.featured .price-bottom {
+	background-color:#167ce9;
+}
+.pricing-content.featured h3 {
+	background:#167ce9;
+}
+
+
+
+/* team */
+.cbp-l-grid-team-name {
+    color: #167ce9;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+	background-color: #167ce9;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #167ce9;
+    border:1px solid #167ce9;
+}
+
+.cbp-l-filters-dropdownWrap {
+    background: #167ce9;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #167ce9;
+    border-color: #167ce9;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+    /* @editable properties */
+    background-color: #167ce9;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+    /* @editable properties */
+    background-color: #167ce9;
+}
+
+.form-control:focus {
+  border-color: #167ce9;
+}
