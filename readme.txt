@@ -1,6 +1,18 @@
-Thanks for downloading this theme!
+# Fatima Rodriguez Website
 
-Theme Name: Medicio
-Theme URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-Author: BootstrapMade
-Author URL: https://bootstrapmade.com
+Javascript, PHP website with newsletter and contact me form.
+
+## Technology
+
+JS
+PHP
+HTML
+CSS
+AJAX
+
+## Author
+
+Isadora Martinez
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
