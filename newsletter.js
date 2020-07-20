@@ -11,6 +11,8 @@ $(function () {
         if (!e.isDefaultPrevented()) {
             var url = "/newsletter.php";
 
+            console.log("hello")
+
             // POST values in the background the the script URL
             $.ajax({
                 type: "POST",
@@ -18,7 +20,7 @@ $(function () {
                 data: $(this).serialize(),
                 success: function (data)
                 {
-                    // data = JSON object that contact.php returns
+                    // data = JSON object that newsletter.php returns
 
                     // we recieve the type of the message: success x danger and apply it to the 
                     var messageAlert = 'alert-' + data.type;
