@@ -1,7 +1,5 @@
 <?php
-/*
- *  CONFIGURE EVERYTHING HERE
- */
+
 
 // an email address that will be in the From field of the email.
 $from = 'A new message from <fr@fatimarodrigueznp.com>';
