@@ -4,11 +4,19 @@ Javascript, PHP website with newsletter and contact me form.
 
 ## Technology
 
-JS
-PHP
+Frontend:
 HTML
 CSS
+JS
+
+Frameworks:
+jQuery
+
+Backend:
+JS
 AJAX
+PHP
+MySQL
 
 ## Author
 
