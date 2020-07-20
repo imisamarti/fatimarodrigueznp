@@ -27,6 +27,11 @@ html {
     height: 100%;
 }
 
+
+.fa {
+font-family: FontAwesome;
+}
+
 label,
 input,
 button,
