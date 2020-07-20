@@ -21,9 +21,15 @@ $(".modal-fullscreen").on('hidden.bs.modal', function () {
   $(".modal-backdrop").addClass("modal-backdrop-fullscreen");
 });
 
-setTimeout(function() {
+// setTimeout(function() {
+//     $('#fsModal').modal('show');
+// }, 2000);
+
+if(screen.width > 800){
+  setTimeout(function() {
     $('#fsModal').modal('show');
 }, 2000);
+}
 
 
 
